@@ -1,0 +1,6 @@
+@PadelBookify.Api_HostAddress = http://localhost:5197
+
+GET {{PadelBookify.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

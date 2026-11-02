@@ -1,0 +1,4 @@
+﻿namespace PadelBookify.Domain.Enums
+{
+    public enum BookingStatus { Pending, Confirmed, Cancelled, Expired }
+}

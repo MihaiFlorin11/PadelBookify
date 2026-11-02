@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PadelBookify.Api/PadelBookify.Api.csproj" />
+  <Project Path="PadelBookify.Application/PadelBookify.Application.csproj" />
+  <Project Path="PadelBookify.Domain/PadelBookify.Domain.csproj" />
+  <Project Path="PadelBookify.Infrastructure/PadelBookify.Infrastructure.csproj" />
+</Solution>
